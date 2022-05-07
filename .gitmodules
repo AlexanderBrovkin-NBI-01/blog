@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:AlexanderBrovkin-NBI-01/AlexanderBrovkin-NBI-01.github.io.git
+	branch = main
