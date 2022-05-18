@@ -34,30 +34,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: elibrary
+  - icon: youtube
     icon_pack: fab
-    link:  https://elibrary.ru/
-  - icon: Google Scholar
+    link:  https://youtube.com/channel/UCd3PCAmre9Pz4qzuh19siDg
+  - icon: vk
     icon_pack: fab
-    link:  https://scholar.google.com/citations?hl=ru
-  - icon: ORCID
+    link:  vk.com/alex_kaedehara
+  - icon: instagram
     icon_pack: fab
-    link: https://orcid.org/ 
+    link:  https://www.instagram.com/invites/contact/?i=y13xrfhu..
   - icon: github
     icon_pack: fab
     link: https://github.com/AlexanderBrovkin-NBI-01/study_2021-2022_os-intro.git
-  - icon: Mendeley
-    icon_pack: fab
-    link: https://www.mendeley.com/
-  - icon: ResearchGate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Alex-Brovkin
-  - icon: Academia.edu
-    icon_pack: fab
-    link: https://independent.academia.edu/AlexBr9]
-  - icon: arXiv
-    icon_pack: fab
-    link: https://arxiv.org/user/
+  
 
 
 # Highlight the author in author lists? (true/false)
