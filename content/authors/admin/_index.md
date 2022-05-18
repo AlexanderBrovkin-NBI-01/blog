@@ -39,7 +39,7 @@ social:
     link:  https://youtube.com/channel/UCd3PCAmre9Pz4qzuh19siDg
   - icon: vk
     icon_pack: fab
-    link:  vk.com/alex_kaedehara
+    link:  https://vk.com/alex_kaedehara
   - icon: instagram
     icon_pack: fab
     link:  https://www.instagram.com/invites/contact/?i=y13xrfhu..
