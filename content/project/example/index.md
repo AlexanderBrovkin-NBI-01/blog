@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Проект по С++
+summary: C++ - это язык программирования, основанный на ООП, очень подходящий для создания высокопроизводительных приложений. 
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -30,12 +30,65 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+C++ является расширением языка C и находит свое применение в приложениях, которым требуется высокая скорость и точность, например, в операционных системах, играх, графическом интерфейсе пользователя (GUI) и встроенных системах.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Самая популярная IDE для C++, Visual Studio используется практических во всех проектах. Вы также можете писать свои программы и в текстовом редакторе, например в блокноте, и компилировать проект с помощью компилятора GCC.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Некоторые характерные особенности C++:
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+    Объектно-ориентированный
+    Богатый набор библиотек
+    Эффективное управление памятью 
+    Мощный и быстрый
+    
+1. Система входа и регистрации
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Это один из самых простых проектов, с которого можно начать изучение файловых систем на C++. Проект включает в себя процесс регистрации пользователя путем запроса имени пользователя и пароля. После успешной регистрации создается пользовательский файл с учетными данными.
+
+Если пользователя не существует, при входе в систему будет показана ошибка. Вы также узнаете, как использовать Visual Studio для создания простого проекта.
+
+
+2. Система аренды автомобилей
+
+Это популярный проект, который очень полезен для изучения событий клавиатуры, функций даты и времени и реализации системы входа на C++. В программе есть отдельные меню для администратора и других пользователей.
+
+Существуют также методы расчета стоимости проезда на основе времени и расстояния, включая отображение сведений об автомобиле, доступности и т.д.
+
+Вы можете попробовать другие проекты, такие как управление музыкальным магазином, бронирование автобусов или система бронирования железнодорожных билетов, по тем же принципам, что и выше.
+
+3. Система инвентаризации книжного магазина
+
+Это простой проект, в котором система поддерживает хранение книг в книжном магазине. Если клиент покупает книгу, количество книг уменьшится; если добавляется книга, то же самое обновляется. Обратите внимание на использование указателей.
+
+Вы можете изменить код, чтобы добавить идентификатор книги и выполнить поиск на основе идентификатора книги или выполнить поиск с использованием только одного параметра, дающего несколько результатов, и так далее.
+
+
+4. Система управления отчетами студентов
+
+Благодаря этому проекту мы можем многое узнать о потоках ввода / вывода и системе управления файлами C++. Программа собирает данные об учениках, такие как имя, номер списка, оценки по каждому предмету, и вычисляет их оценку. Это простое консольное приложение.
+
+Обратите внимание, что в этом проекте мы фокусируемся только на правильных входных данных, и вы можете улучшить его для обработки неправильных входных данных. 
+
+7. Валидатор кредитных карт
+
+Это простой проект, который использует алгоритм Луна (Luhn algorithm) для проверки кредитной карты пользователя. Программа работает со всеми популярными картами, такими как Visa, Amex, MasterCard и т.д.
+
+Алгоритм Луна делает основные проверки; например, карта Visa должна начинаться с 4, а затем переходить к сложным вычислениям с помощью цифр. Это хорошая программа для изучения, потому что большинство транзакций электронной коммерции требуют проверки кредитной карты.
+
+
+# Заключение
+
+В этой статье мы обсудили некоторые важные проекты начального и среднего уровня. Если вы правильно следовали коду, вы должны получить точные результаты.
+
+Хотя Visual Studio предлагает множество функций, для ее загрузки требуется время. 
+
+
+
+
+
+
+
+
+
+
+
