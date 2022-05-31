@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Опыт
+title: Опыт/experience
 subtitle:
 
 # Date format for experience
@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Студент ФМиЕН
-    company: Российский Университет Дружбы Народов
+  - title: Студент ФМиЕН/Student ФМиЕН 
+    company: Российский Университет Дружбы Народов/RUDN
     company_url: ''
     company_logo: org-gc
-    location: Москва
+    location: Москва/Moscow
     date_start: '2021-09-01'
     date_end: '2025-06-01'
     description: |2-
-        Обязанности:
+        Обязанности/Responsibilities:
         
-        * Ответственность
-        * Пунктуальность
-        * Старание
+        * Ответственность/A responsibility
+        * Пунктуальность/Punctuality
+        * Старание/diligence
 
  
 design:

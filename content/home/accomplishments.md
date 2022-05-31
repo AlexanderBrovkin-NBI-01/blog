@@ -27,9 +27,9 @@ item:
     date_end: '2021-06-01'
     date_start: '2009-09-01'
     description: ''
-    organization: Школа "Интеллект+"
+    organization: Школа "Интеллект+"/School Intellect+
     organization_url: 
-    title: Окончил школу на отлично
+    title: Окончил школу на отлично/Graduated from high school
     url: ''
   
 design:

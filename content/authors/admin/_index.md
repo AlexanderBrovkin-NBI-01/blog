@@ -6,7 +6,7 @@ title: Бровкин Александр
 superuser: true
 
 # Role/position/tagline
-role: Студент
+role: Студент/Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,18 +14,18 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Я студент прекрасного университета, учусь на физмате и не жалею о этом. Также очень люблю животных.
+bio: Я студент прекрасного университета, учусь на физмате и не жалею о этом. Также очень люблю животных/I am a student of an excellent university, I study physics and mathematics and do not regret it. I also love animals very much.
 
 # Interests to show in About widget
 interests:
-  - Я кошатник
-  - Люблю читать
-  - Играю в Genshin Impact
+  - Я кошатник/I love cats
+  - Люблю читать/I love to read
+  - Играю в Genshin Impact/I Play genshin impact
 
 # Education to show in About widget
 education:
   courses:
-    - course: Бизнес-Информатика
+    - course: Бизнес-Информатика/Business Informatics
       institution: RUDN Universiry 
       year: 2022
 
@@ -53,4 +53,4 @@ social:
 highlight_name: true
 ---
 
-Я родился в 2003 году и уже добился многого. Я поступил в университет мечты и теперь тут добиваюсь высот. Я хочу побывать во многих странах мира и посетить некоторые интересные места, надеюсь у меня все получится.
+Я родился в 2003 году и уже добился многого. Я поступил в университет мечты и теперь тут добиваюсь высот. Я хочу побывать во многих странах мира и посетить некоторые интересные места, надеюсь у меня все получится./I was born in 2003 and have already achieved a lot. I entered the dream university and now I am achieving heights here. I want to visit many countries of the world and visit some interesting places, I hope I succeed.

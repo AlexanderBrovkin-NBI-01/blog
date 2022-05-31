@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Навыки
+title: Навыки/Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 40%
     icon: ":art:"
     icon_pack: emoji
-    name: Рисунок
+    name: Рисунок/art
   - description: 100%
     icon: ":croissant:"
     icon_pack: emoji
-    name: Умение вкусно поесть
+    name: Умение вкусно поесть/Ability to eat well
   - description: 40%
     icon: ":camera_flash:"
     icon_pack: emoji
-    name: Фотография
+    name: Фотография/photo
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
